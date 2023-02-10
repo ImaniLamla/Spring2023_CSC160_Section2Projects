@@ -2,8 +2,8 @@
  * 
  */
 /**
- * @author imlaml01
+ * @author lerat
  *
  */
-module Section2_BankApp {
+module Section2_BankingApp {
 }
