@@ -1,2 +1,2 @@
-# Spring2023_CSC160_Section2Projects
-Stores all my Section 2 projects for CSC 160
+# Spring2023_CSC160_Section2Project
+Stores my Section 2 project for CSC 160. 
